@@ -1,3 +1,6 @@
+**Description**
+Simple dice app which involves 2 die and rolls when clicked on a button
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
