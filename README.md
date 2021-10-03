@@ -1,4 +1,3 @@
-**Description**
 Simple dice app which involves 2 die and rolls when clicked on a button
 
 # Getting Started with Create React App
